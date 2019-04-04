@@ -1,1 +1,4 @@
-# github_template
+# GitHub Template
+
+GitHubテンプレート用のリポジトリです。
+
