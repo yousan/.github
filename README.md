@@ -18,9 +18,10 @@
 <img width="361" alt="Screen Shot 2019-04-08 at 17 23 16" src="https://user-images.githubusercontent.com/561613/55709310-0671fe80-5a23-11e9-91a4-7e0476d37e3e.png">
 
 デフォルトのラベルをつけることもできます。
+
 <img width="288" alt="Screen Shot 2019-04-08 at 17 25 01" src="https://user-images.githubusercontent.com/561613/55709783-08888d00-5a24-11e9-8986-dc56a5b41b21.png">
-ちなみに仕様かバグかの境界線上の場合、`bug`のラベルより`enhancement`のラベルの方がエンジニア受けが
-良いです 👼
+
+ちなみに仕様かバグかの境界線上の場合、`bug`のラベルより`enhancement`のラベルの方がエンジニア受けが良いです 👼
 
 # インストール方法
 テンプレートファイルをダウンロードします。
