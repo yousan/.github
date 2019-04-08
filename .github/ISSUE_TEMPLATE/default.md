@@ -1,7 +1,9 @@
 ---
 name: Issue作成 簡易版
 about: 簡易版です
+title: ''
 labels: enhancement
+assignees: ''
 
 ---
 
@@ -18,4 +20,3 @@ labels: enhancement
 - [ ]
 
 # その他補足事項など
-

@@ -1,7 +1,9 @@
 ---
 name: Issue作成 詳細版
 about: 詳細版です
+title: ''
 labels: enhancement
+assignees: ''
 
 ---
 
