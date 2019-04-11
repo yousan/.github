@@ -39,3 +39,7 @@ $ curl -o .github/ISSUE_TEMPLATE/detailed.md https://raw.githubusercontent.com/y
 # テンプレート自体について
 テンプレートの内容は自分が書いたほうが良いことを記述しています。
 閉じられなくなってしまったタスクや、どうしたら良いのか迷わないように項目を立てています。
+
+
+# 参考
+https://tech.gamewith.co.jp/entry/2018/05/22/154951
