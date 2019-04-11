@@ -1,5 +1,5 @@
 ---
-name: Issue作成 詳細版
+name: タスク、機能追加（詳細版）
 about: 詳細版です
 title: ''
 labels: enhancement

@@ -1,5 +1,5 @@
 ---
-name: Issue作成 簡易版
+name: タスク、機能追加（簡易版）
 about: 簡易版です
 title: ''
 labels: enhancement
