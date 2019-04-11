@@ -7,7 +7,7 @@
 # 内容
 二種類のIssueテンプレートが入っています。
 
-簡易版は普段使い用に書くためのテンプレートです。
+簡易版は普段書くためのテンプレートです。
 <img width="641" alt="Screen Shot 2019-04-08 at 17 23 10" src="https://user-images.githubusercontent.com/561613/55709313-0671fe80-5a23-11e9-8230-c2cecc1d6e22.png">
 
 詳細版はIssueを書くことに慣れていない人向けのテンプレートです。
@@ -24,15 +24,22 @@
 ちなみに仕様かバグかの境界線上の場合、`bug`のラベルより`enhancement`のラベルの方がエンジニア受けが良いです 👼
 
 # インストール方法
-テンプレートファイルをダウンロードします。
+リポジトリ直下から`.github/ISSUE_TEMPLATE`ディレクトリにテンプレートファイルをダウンロードします。
+
+例えば下記のコマンドでダウンロードできます。
+
 
 ```bash
 $ mkdir -p .github/ISSUE_TEMPLATE
 
-curl -o .github/ISSUE_TEMPLATE/default.md https://raw.githubusercontent.com/yousan/github_template/master/.github/ISSUE_TEMPLATE/default.md
-curl -o .github/ISSUE_TEMPLATE/detailed.md https://raw.githubusercontent.com/yousan/github_template/master/.github/ISSUE_TEMPLATE/detailed.md
+$ curl -o .github/ISSUE_TEMPLATE/default.md https://raw.githubusercontent.com/yousan/github_template/master/.github/ISSUE_TEMPLATE/default.md
+$ curl -o .github/ISSUE_TEMPLATE/detailed.md https://raw.githubusercontent.com/yousan/github_template/master/.github/ISSUE_TEMPLATE/detailed.md
 ```
 
 # テンプレート自体について
 テンプレートの内容は自分が書いたほうが良いことを記述しています。
 閉じられなくなってしまったタスクや、どうしたら良いのか迷わないように項目を立てています。
+
+
+# 参考
+https://tech.gamewith.co.jp/entry/2018/05/22/154951
