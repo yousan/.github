@@ -6,8 +6,11 @@
 
 # :white_check_mark: 項目チェック
 
-<!-- pull・Request画面右横にあるReviwers, Assignments, labels, project, Milestoneの項目にチェックをおねがします。
-mustとしてAssignmentsとlabelには項目をつけるようにお願いします。-->
+<!-- 
+PullRequest画面右横にあるReviwers, Assignees, Labels, Milestoneの項目にチェックをおねがします。
+Assigneesはマージを行う人で、主に自分自身を指定してください。
+mustとしてAssigneesとLabelには項目をつけるようにお願いします。
+-->
 
 # :warning: 影響
 
@@ -20,3 +23,6 @@ mustとしてAssignmentsとlabelには項目をつけるようにお願いしま
 修正後のスクリーンショット、確認できるURLがあると理解しやすいです。
 必要がない場合は記入なしで大丈夫です。
 -->
+
+
+<!-- Thanks from  @ogxwx -->
