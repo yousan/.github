@@ -26,6 +26,10 @@
 # インストール方法
 リポジトリ直下から`.github/ISSUE_TEMPLATE`ディレクトリにテンプレートファイルをダウンロードします。
 
+```bash
+$ curl https://raw.githubusercontent.com/yousan/github_template/master/install.sh | sh - 
+```
+
 例えば下記のコマンドでダウンロードできます。
 
 

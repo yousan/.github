@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ISSUEテンプレートをダウンロードするスクリプトです。
 
-mkdir -fp .github/ISSUE_TEMPLATE
+mkdir -p .github/ISSUE_TEMPLATE
 
 curl -s -L -o .github/ISSUE_TEMPLATE/default.md https://raw.githubusercontent.com/yousan/github_template/master/.github/ISSUE_TEMPLATE/default.md &
 curl -s -L -o .github/ISSUE_TEMPLATE/detailed.md https://raw.githubusercontent.com/yousan/github_template/master/.github/ISSUE_TEMPLATE/detailed.md &
