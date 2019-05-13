@@ -48,3 +48,5 @@ $ curl -o .github/ISSUE_TEMPLATE/detailed.md https://raw.githubusercontent.com/y
 
 # 参考
 https://tech.gamewith.co.jp/entry/2018/05/22/154951
+
+https://engineering.crocos.jp/post/98455177675/pull-request-%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%A8%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E5%8A%B9%E7%8E%87%E3%81%8C3%E5%80%8D%E3%82%88%E3%81%8F%E3%81%AA%E3%82%8B
