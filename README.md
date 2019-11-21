@@ -8,20 +8,19 @@
 二種類のIssueテンプレートが入っています。
 
 簡易版は普段書くためのテンプレートです。
-<img width="641" alt="Screen Shot 2019-04-08 at 17 23 10" src="https://user-images.githubusercontent.com/561613/55709313-0671fe80-5a23-11e9-8230-c2cecc1d6e22.png">
+[テンプレートのサンプル](https://user-images.githubusercontent.com/561613/55709313-0671fe80-5a23-11e9-8230-c2cecc1d6e22.png)
 
 詳細版はIssueを書くことに慣れていない人向けのテンプレートです。
-<img width="789" alt="Screen Shot 2019-04-08 at 17 22 58" src="https://user-images.githubusercontent.com/561613/55709315-0671fe80-5a23-11e9-8f8b-652ed116bb3c.png">
-<img width="630" alt="Screen Shot 2019-04-08 at 17 23 03" src="https://user-images.githubusercontent.com/561613/55709314-0671fe80-5a23-11e9-957e-89467a41e7cc.png">
 
-テンプレートを導入しても、テンプレート無しでももちろん書けます。
-<img width="361" alt="Screen Shot 2019-04-08 at 17 23 16" src="https://user-images.githubusercontent.com/561613/55709310-0671fe80-5a23-11e9-91a4-7e0476d37e3e.png">
+[詳細版のサンプル1](https://user-images.githubusercontent.com/561613/55709315-0671fe80-5a23-11e9-8f8b-652ed116bb3c.png)
 
-デフォルトのラベルをつけることもできます。
+[詳細版のサンプル2](https://user-images.githubusercontent.com/561613/55709314-0671fe80-5a23-11e9-957e-89467a41e7cc.png)
 
-<img width="288" alt="Screen Shot 2019-04-08 at 17 25 01" src="https://user-images.githubusercontent.com/561613/55709783-08888d00-5a24-11e9-8986-dc56a5b41b21.png">
+[テンプレート無しでも書くことができます](https://user-images.githubusercontent.com/561613/55709310-0671fe80-5a23-11e9-91a4-7e0476d37e3e.png)
 
-ちなみに仕様かバグかの境界線上の場合、`bug`のラベルより`enhancement`のラベルの方がエンジニア受けが良いです 👼
+[デフォルトのラベルを付けることができます](https://user-images.githubusercontent.com/561613/55709783-08888d00-5a24-11e9-8986-dc56a5b41b21.png)
+
+ちなみに仕様かバグかの境界線上の場合、`bug`のラベルより`enhancement`のラベルの方がよいかもしれません 👼
 
 # インストール方法
 リポジトリ直下から`.github/ISSUE_TEMPLATE`ディレクトリにテンプレートファイルをダウンロードします。
