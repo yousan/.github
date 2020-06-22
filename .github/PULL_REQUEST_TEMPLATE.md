@@ -11,7 +11,7 @@ Set "Reviwers", "Assignees", "Labels", "Milestone" and "Release" on right sideba
 "Assignees" is who will merge this Pull Request. Almost set yourself after review approved.
 -->
 
-# Abstract
+## Abstract
 <!--
 修正概要を記述してください
 修正後のスクリーンショット、確認できるURLがあると理解しやすいです。
@@ -20,7 +20,7 @@ Describe the abstract of this Pull Request.
 Screenshot and URL are really useful for the teammate.  
 -->
 
-# What is fixed
+## What is fixed
 
 <!--
 修正した内容を記入してください。
@@ -36,12 +36,12 @@ e.g.
 - Clicked a button then calculate fee.
 -->
 
-# How to check this PR
+## How to check this PR
 <!--
 修正の確認方法について記述してください。
 -->
 
-# References
+## References
 <!--
 関連するIssueをGitHubの # で記述してください。
 Fixes #123 のように書くとそのまま終了させることが出来ます。
