@@ -19,7 +19,7 @@ Title e.g.
 Calculate fee from multiple unit price by rooms
 -->
 
-# Background
+## Background
 <!--
   Issue background.
   Why this issue is needed, what this issue solves.
@@ -31,7 +31,7 @@ Calculate fee from multiple unit price by rooms
   We want to improve their calculate.
 -->
 
-# What will be done
+## What will be done
 <!--
   Things to solve a issue.
   Free to write, but recommended "Checkbox listing" to clear out the things.
@@ -42,7 +42,7 @@ e.g.
 - [ ] "Alert" when room number is over 100
 -->
 
-# Definition of Done
+## Definition of Done
 <!--
   Write definition of done. @see https://www.agilealliance.org/glossary/definition-of-done/
   Detailed list is good, but our time is finite. Necessary and sufficient.
@@ -58,7 +58,7 @@ e.g.
 - [ ] ボタンが設置され料金計算が正しく行われている（ 10,000円 10部屋で合計が100,000円となる）
 - [ ] 100部屋以上の入力でAlertが出ている
 
-# References
+## References
 <!--
   References here. Related issues, exceptions.
 
